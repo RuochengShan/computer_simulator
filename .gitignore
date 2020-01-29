@@ -1,0 +1,19 @@
+# gradle generated
+.gradle
+/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# eclipse generated
+.vscode
+.idea/
+.project
+.settings/
+.classpath
+bin/
+
+# vim swap file
+*.swp
+*.swo
+
